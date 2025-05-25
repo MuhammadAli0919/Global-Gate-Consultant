@@ -1,55 +1,24 @@
-🚀 The 5-Year Journey of Bros Technology Group LLC
-==================================================
+# 🌐 Global Gates Consultant Website
 
-Founded by Aliyan Memon & Anus Ahmed Khan
------------------------------------------
+This is the official website for **Global Gates Consultant**, a Karachi-based firm specializing in immigration, study abroad, and visa consultancy services.
 
-### 📌 About Bros Technology Group LLC
+Built using clean HTML and CSS (no frameworks), this static website includes pages like Home, About Us, Career Opportunities, and Contact. It features team member bios, job listings with email application links, and responsive layout for accessibility across devices.
 
-Bros Technology Group LLC was established in **2019** with a mission to provide cutting-edge software solutions and development services. Over the past five years, it has grown into a **giant IT company**, offering services in **software development, AI, blockchain, web and mobile applications, and enterprise solutions.**
+**Structure:**  
+- `index.html` – Home  
+- `about.html` – Company profile & team (e.g., Asim Shaikh, Bilal Baig)  
+- `career.html` – Current openings with direct email links  
+- `contact.html` – (Optional) Contact form  
+- `images/` – Logo and media files  
+- `css/styles.css` – (If using separate styles)
 
-### Aliyan Memon
+**How to use:**  
+1. Clone the repo: `git clone https://github.com/your-username/global-gates-website.git`  
+2. Open any `.html` file in a web browser to view.
 
-**Founder & CEO**
+**Contact:**  
+📧 [info@globalgatesconsultant.com](mailto:info@globalgatesconsultant.com)  
+📍 Karachi, Pakistan
 
-A visionary entrepreneur who turned failures into stepping stones, leading Bros Technology Group LLC to global success.
-
-### Anus Ahmed Khan
-
-**Co-founder & COO**
-
-A dedicated leader who overcame financial struggles and played a key role in the company's rapid growth.
-
-### 💡 From Failures to Success
-
-Before establishing Bros Technology Group LLC, Aliyan Memon faced several startup failures, including:
-
-*   🚫 MAZ Studio
-*   🚫 Codify
-*   🚫 Futurecode
-*   🚫 Codpro
-*   And many more...
-
-These failures provided valuable lessons that contributed to the success of Bros Technology Group LLC.
-
-### 🔥 Startups Under Bros Technology Group LLC
-
-Today, Bros Technology Group LLC supervises and supports multiple startups, driving innovation and growth.
-
-#### Microbite Technology
-
-Providing advanced IT solutions and software services.
-
-#### Innovizes (Female)
-
-Empowering women in tech through entrepreneurship and development.
-
-#### Innovizes (Male)
-
-Fostering innovation and digital transformation in the IT industry.
-
-### 📈 The Future of Bros Technology Group LLC
-
-Under the leadership of **Aliyan Memon** and **Anus Ahmed Khan**, Bros Technology Group LLC continues to expand globally, focusing on AI, blockchain, automation, and cloud computing.
-
-Their vision is to create a global tech ecosystem that fosters innovation, entrepreneurship, and digital transformation.
+**License:**  
+Content © 2025 Global Gates Consultant. For informational and non-commercial use.
